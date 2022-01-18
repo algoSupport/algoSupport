@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=algoSupport.algoSupport)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=algoSupport.algoSupport) -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Phillip and authoritative Software Developer willing to direct large-scale teams or work hands-on to complete
 extremely difficult projects. Brings both cutting-edge programming expertise and exceptional interpersonal skills to leadership roles.
@@ -29,14 +29,32 @@ extremely difficult projects. Brings both cutting-edge programming expertise and
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/algoSupport">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoSupport&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/algoSupport">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=algoSupport&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="algoSupport's GitHub Stats" />
-</a>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=algoSupport&column=7&theme=onedark" />
-</div>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=algosupport&theme=react&border=61dafb&hide_border=true" alt="algosupport" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=algosupport&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algosupport&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=algosupport&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<hr>
+### Profile Trophy
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algosupport&theme=react-dark&bg_color=20232a&hide_border=true" alt="algosupport" /></a>
+  </div>
+  <br>
+</p>
+<hr>
