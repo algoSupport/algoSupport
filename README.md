@@ -53,7 +53,7 @@ extremely difficult projects. Brings both cutting-edge programming expertise and
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algosupport&theme=react-dark&bg_color=20232a&hide_border=true" alt="algosupport" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algosupport&row=1&theme=react-dark&bg_color=20232a&hide_border=true" alt="algosupport" /></a>
   </div>
   <br>
 </p>
