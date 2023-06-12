@@ -1,5 +1,5 @@
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=algoSupport.algoSupport) -->
-# Hello, Mr Kadir! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am an authoritative Software Developer willing to direct large-scale teams or work hands-on to complete
 extremely difficult projects. Brings both cutting-edge programming expertise and exceptional interpersonal skills to leadership roles.
 
